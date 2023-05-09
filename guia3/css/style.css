@@ -11,14 +11,14 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #1a242a;
+  background: #9a59c0;
 }
 
 .container {
   position: relative;
   width: 0px;
   height: 0px;
-  background: #37444b;
+  background: #32df1b;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -31,7 +31,7 @@ body {
   bottom: -15px;
   width: 40px;
   height: 40px;
-  background: #37444b;
+  background: #c51f2d;
   border-radius: 5px;
   opacity: 0;
   transform: rotate(45deg);
@@ -40,7 +40,7 @@ body {
 .container .content {
   min-width: 400px;
   padding: 40px;
-  color: #fff;
+  color: #000000;
   opacity: 0;
   transition: 0.5s;
   transform: scale(0);
@@ -50,7 +50,7 @@ body {
   bottom: -20px;
   min-width: 60px;
   height: 60px;
-  background: #0bcf9c;
+  background: #f78605;
   border-radius: 50%;
   cursor: pointer;
   display: flex;
@@ -71,7 +71,7 @@ body {
 .container.active .toggleBtn {
   bottom: -90px;
   transform: rotate(135deg);
-  background: #ff5a57;
+  background: #2a36a1;
 }
 .container.active {
   width: 400px;
