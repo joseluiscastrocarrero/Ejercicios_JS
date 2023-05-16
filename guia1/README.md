@@ -13,9 +13,5 @@
 ![parte3](./img/parte3.png)
 ![parte4](./img/parte4.png)
 
-## EJERCICIO-2
-
-### MENU
-![MENU](./img/MENU.png)
 
 
